@@ -1,0 +1,9 @@
+Built a LangChain DataFrame Agent that lets users upload one or multiple CSV/Excel files and ask questions in natural language.
+
+The agent uses Python and pandas to analyze real data, including multi-table joins and cross-dataset comparisons—without requiring users to write pandas code themselves.
+
+Tech stack: Python, pandas, LangChain, Gemini, Streamlit.
+
+Key learning: tool-using agents can turn natural-language questions into computed analysis, but safe code execution, data quality and privacy are essential.
+
+#LangChain #GenerativeAI #AgenticAI #Python #DataAnalytics #DataScience #GeminiAI
